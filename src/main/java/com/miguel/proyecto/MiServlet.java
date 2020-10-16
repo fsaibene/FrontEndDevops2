@@ -9,7 +9,11 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
+<<<<<<< HEAD
  * Modifico mi comentario.
+=======
+ * YO también modifico el comentario.
+>>>>>>> Comentario modificado
  */
 @SuppressWarnings("serial")
 public class MiServlet extends HttpServlet {
